@@ -6,18 +6,18 @@ Esta função recebe um número inteiro positivo e retorna o somatório de todos
 Certifique-se de ter o Node.js instalado em seu sistema.
 npm install
 1. Clone este repositório:
-bash
-git clone https://github.com/Joaomagh/DesafioEscribo.git
+1. bash
+1. git clone https://github.com/Joaomagh/DesafioEscribo.git
 
 2. bash
-Navegue até o diretório do projeto com a execução abaixo.
-cd DesafioEscribo
+2. Navegue até o diretório do projeto com a execução abaixo.
+2. cd DesafioEscribo
 
 
 ## Exemplo
-Para testar o somatório com o número 10:
+3. Para testar o somatório com o número 10:
 3. ( para executar) no terminal bash
-node -e "console.log(require('./somatorio')(10))"
+3. node -e "console.log(require('./Desafio1.js')(10))"
 
 nota: O resultado é 23.
 troque 10, pelo numero que quiser.
